@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-05-07 07:56+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: pdf_split.py:84 pdf_split.py:221
+msgid "About"
+msgstr ""
+
+#: pdf_split.py:117
+msgid "Please select PDF files only"
+msgstr "الرجاء تحديد ملفات PDF فقط"
+
+#: pdf_split.py:117 pdf_split.py:175 pdf_split.py:177 pdf_split.py:180
+msgid "Error"
+msgstr "خطأ"
+
+#: pdf_split.py:122 pdf_split.py:249
+msgid "Please select the input file"
+msgstr "الرجاء تحديد ملف الإدخال"
+
+#: pdf_split.py:175
+msgid "Please select the input and output file"
+msgstr "الرجاء تحديد ملف الإدخال والإخراج"
+
+#: pdf_split.py:177
+msgid "Please enter a number between 1 and 9999"
+msgstr "الرجاء إدخال رقم بين 1 و 9999"
+
+#: pdf_split.py:180
+msgid "Please enter numbers only"
+msgstr "الرجاء إدخال أرقام فقط"
+
+#: pdf_split.py:196
+msgid "Done"
+msgstr "تمت العملية"
+
+#: pdf_split.py:196
+msgid "Info"
+msgstr "معلومة"
+
+#: pdf_split.py:223
+msgid "Help"
+msgstr ""
+
+#: pdf_split.py:253
+msgid "Input File"
+msgstr "ملف الإدخال"
+
+#: pdf_split.py:256
+msgid "Please select the output file"
+msgstr "الرجاء تحديد ملف الإخراج"
+
+#: pdf_split.py:260
+msgid "Output File"
+msgstr "ملف إلاخراج"
+
+#: pdf_split.py:264
+msgid "Select the number Of pages to split"
+msgstr "حدد عدد الصفحات المراد تقسيمها"
+

@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-05-11 09:27+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: pdf_compress.py:134
+msgid "Please select PDF files only"
+msgstr "الرجاء تحديد ملفات PDF فقط"
+
+#: pdf_compress.py:134 pdf_compress.py:190
+msgid "Error"
+msgstr "خطأ"
+
+#: pdf_compress.py:156 pdf_compress.py:266
+msgid "Please select the input files"
+msgstr "الرجاء تحديد ملفات الإدخال"
+
+#: pdf_compress.py:178 pdf_compress.py:273
+msgid "Please select the output folder"
+msgstr "الرجاء تحديد مجلد الإخراج"
+
+#: pdf_compress.py:190
+msgid "Please select The input and output folder"
+msgstr "الرجاء تحديد ملف الإدخال ومجلد الإخراج"
+
+#: pdf_compress.py:208
+msgid "Done"
+msgstr "تمت العملية"
+
+#: pdf_compress.py:208
+msgid "Info"
+msgstr "معلومة"
+
+#: pdf_compress.py:253
+msgid "Compression Level"
+msgstr "مستوى الضغط"
+
+#: pdf_compress.py:270
+msgid "Input Files"
+msgstr "ملفات الإدخال"
+
+#: pdf_compress.py:277
+msgid "Output Folder"
+msgstr "مجلد الإخراج"
+
+#: pdf_compress.py:281
+msgid "Normal (recommended)"
+msgstr "متوسط (مستحسن)"
+
+#: pdf_compress.py:282
+msgid "High (low quality Image)"
+msgstr "عالي (صورة منخفضة الجودة)"
+
