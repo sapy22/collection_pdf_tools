@@ -59,7 +59,7 @@ class MainWindow:
         about_window_frm = ttk.Frame(about_window)
         about_window_frm.grid()
         #
-        txt = "Tkinter\nReportLab\nPyPDF2\nopenpyxl\narabic-reshaper\npython-bidi\n______\nver 0.1\nhttps://github.com/sapy22"
+        txt = "Tkinter\nReportLab\npypdf\nopenpyxl\narabic-reshaper\npython-bidi\n______\nver 0.1\nhttps://github.com/sapy22"
 
         about_text = tk.Text(about_window_frm,height=10,width=40)
         about_text.grid(row=0,column=0)

@@ -11,7 +11,7 @@ made for personal use & learning purposes
 libs:  
 Tkinter  
 ReportLab  
-PyPDF2  
+pypdf  
 openpyxl  
 arabic-reshaper  
 python-bidi  
