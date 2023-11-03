@@ -11,7 +11,7 @@ made for personal use & learning purposes
 
 libs:  
 Tkinter  
-PyPDF2 
+pypdf 
 
 ## Prerequisites  
 1. Clone the repo

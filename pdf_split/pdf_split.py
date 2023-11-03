@@ -1,5 +1,5 @@
 import os, sys
-from PyPDF2 import PdfReader, PdfWriter
+from pypdf import PdfReader, PdfWriter
 import tkinter as tk
 import tkinter.ttk as ttk
 from tkinter.filedialog import askopenfilename, asksaveasfilename
@@ -50,7 +50,6 @@ def split(input_file_path: str,output_file_path: str,num_of_page_to_split: int):
         for page in reader.pages:
             temp_page_count += 1
 
-            # page.compress_content_streams() # hmmm
             writer.add_page(page)
 
             if temp_page_count == num_of_page_to_split:
@@ -93,7 +92,7 @@ def on_about_btn_pressed():
    #
    txt = """ 
    Tkinter
-   PyPDF2
+   pypdf
    ______
 
    ver 0.1
